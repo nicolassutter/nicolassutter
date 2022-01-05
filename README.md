@@ -1,7 +1,5 @@
 ## Hello there :wave:
 
-<img align="center" alt="Typescript" height="30" width="40" src="https://giphy.com/embed/xTiIzJSKB4l7xTouE8">
-
 <div>
   <a href="https://github.com/nicolassutter/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolassutter&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
