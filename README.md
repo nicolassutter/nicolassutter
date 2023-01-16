@@ -1,7 +1,7 @@
 <div align="center">
   <h3>Hello there :wave:</h3>
 
-  <img src="https://github.com/nicolassutter/nicolassutter/blob/main/assets/img/hello_there.gif">
+  <img src="assets/img/cover.svg">
 
   I am currently a front & back-end web developer livin in Strasbourg, France. I love to discover new technologies (and the JS ecosystem changes every 2 minutes, so that's nice I guess 🙃). I also repair printers for my family as all developpers do obviously, and I game on my free time.
 
