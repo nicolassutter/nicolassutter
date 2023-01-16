@@ -1,21 +1,38 @@
-## Hello there :wave:
+<div align="center">
+  <h3>Hello there :wave:</h3>
 
-<img src="https://github.com/nicolassutter/nicolassutter/blob/main/assets/img/hello_there.gif">
+  <img src="https://github.com/nicolassutter/nicolassutter/blob/main/assets/img/hello_there.gif">
 
-<div>
-  <a href = "mailto:contact.sutter.nicolas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nicolas-sutter-abb18b188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  I am currently a front & back-end web developer livin in Strasbourg, France. I love to discover new technologies (and the JS ecosystem changes every 2 minutes, so that's nice I guess 🙃). I also repair printers for my family as all developpers do obviously, and I game on my free time.
+
+  On a more serious note, if you would like to know me more, check out my website: <https://www.sutter-nicolas.com/>
+
+  <div>
+    <a href = "mailto:contact.sutter.nicolas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/nicolas-sutter-abb18b188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
 </div>
 
-## My awesome stats 📊
+---
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=nicolassutter&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/nicolassutter/nicolassutter)
+### My awesome stats 📊
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolassutter&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/nicolassutter/nicolassutter)
+<div>
+
+  <a href="https://github.com/nicolassutter/nicolassutter">
+    <img src="https://github-readme-stats.vercel.app/api?username=nicolassutter&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Stats">
+  </a>
+
+  <a href="https://github.com/nicolassutter/nicolassutter">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolassutter&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Languages">
+  </a>
+</div>
 
 > Keep in mind that these stats can only gather data from my public repositories and therefore, do not represent my actual experience (or my countless private repos 😅)
 
-## My best repos (I think so anyway) ✨
+---
+
+### My best repos (I think so anyway) ✨
 
 <a href="https://github.com/alsacreations/guidelines">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=alsacreations&repo=guidelines&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Guidelines Alsacréations" />
@@ -29,7 +46,9 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolassutter&repo=snex-next&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Snex Next" />
 </a>
 
-## My tech stack & stuff 🤓
+---
+
+### My tech stack & stuff 🤓
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -52,9 +71,26 @@
 ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
-  
-## Top 3 of my favorite cheeses 🧀
+---
 
-  - [Morbier](https://fr.wikipedia.org/wiki/Morbier_(Jura))
-  - [Raclette](https://fr.wikipedia.org/wiki/Raclette)
-  - [Reblochon](https://fr.wikipedia.org/wiki/Reblochon)
+### My personal conventions 📏
+
+#### Git 🌳
+
+- I recently adopted [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) and I love it.
+
+#### Code quality & formatting 🎨
+
+- I use [eslint](https://eslint.org/) for most code quality checks (and some formatting)
+- I use [prettier](https://prettier.io/) for formatting
+- When I can, new code always comes in a PR (or MR on GitLab)
+
+---
+
+### Unrelated: top 3 of my favorite cheeses 🧀
+
+1. [Morbier](https://fr.wikipedia.org/wiki/Morbier_(Jura))
+2. [Raclette](https://fr.wikipedia.org/wiki/Raclette)
+3. [Reblochon](https://fr.wikipedia.org/wiki/Reblochon)
+
+> I use Arch btw
