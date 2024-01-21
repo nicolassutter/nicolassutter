@@ -34,12 +34,16 @@
 
 ### My best repos (I think so anyway) ✨
 
-<a href="https://github.com/alsacreations/guidelines">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alsacreations&repo=guidelines&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Guidelines Alsacréations" />
+<a href="https://github.com/alsacreations/kiwipedia">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alsacreations&repo=kiwipedia&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Kiwipedia Alsacréations" />
 </a>
 
 <a href="https://github.com/alsacreations/eslint">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=alsacreations&repo=eslint&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Configuration eslint Alsacréations" />
+</a>
+
+<a href="https://github.com/nicolassutter/unocss-custom-properties">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolassutter&repo=unocss-custom-properties&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Uno CSS custom properties" />
 </a>
 
 <a href="https://github.com/nicolassutter/snex-next">
