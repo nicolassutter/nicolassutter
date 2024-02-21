@@ -3,7 +3,7 @@
 
   <img src="assets/img/cover.svg">
 
-  I am currently a front & back-end web developer living in Strasbourg, France. I love to discover new technologies (and the JS ecosystem changes every 2 minutes, so that's nice I guess 🙃). I also repair printers for my family as all developpers do obviously, and I game on my free time.
+  I am currently a front & back-end web developer living in Strasbourg, France. I love to discover new technologies (and the JS ecosystem changes every 2 minutes, so that's nice I guess 🙃). I also repair printers for my family as all developers do obviously, and I game on my free time.
 
   On a more serious note, if you would like to know me more, check out my website: <https://www.sutter-nicolas.com/>
 
