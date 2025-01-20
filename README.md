@@ -1,11 +1,19 @@
-<div align="center">
+<div>
   <h3>Hello there :wave:</h3>
 
   <img src="assets/img/cover.svg">
 
-  I am currently a front & back-end web developer living in Strasbourg, France. I love to discover new technologies (and the JS ecosystem changes every 2 minutes, so that's nice I guess 🙃). I also repair printers for my family as all developers do obviously, and I game on my free time.
-
-  On a more serious note, if you would like to know me more, check out my website: <https://www.sutter-nicolas.com/>
+  I am currently a freelance full-stack software engineer after 5 years of full-time web dev and a year as a Lead Developer.
+  I love to discover new technologies (and the JS ecosystem changes every 2 minutes, so that's nice I guess 🙃).
+  
+  I also love making pizzas, but I am not sure it is relevant here. 🍕
+  
+  On a more serious note, I am passionate about software and hardware as I love to solve problems and build things.
+  I currently host my own home media server on Docker with Caddy and a whole lot of open source projets.
+  I mostly work with React, Vue.js or SolidJS (❤️), Node.js and TypeScript.
+  I believe to be a good fit for a team that values quality, performance and maintainability; especially with all the JS based tech coming out these days.
+  
+  If you would like to know me more, check out my website: <https://www.sutter-nicolas.com/>
 
   <div>
     <a href = "mailto:contact.sutter.nicolas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -18,7 +26,6 @@
 ### My awesome stats 📊
 
 <div>
-
   <a href="https://github.com/nicolassutter/nicolassutter">
     <img src="https://github-readme-stats.vercel.app/api?username=nicolassutter&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Stats">
   </a>
@@ -32,7 +39,7 @@
 
 ---
 
-### My best repos (I think so anyway) ✨
+### My best open source repos ✨
 
 <a href="https://github.com/alsacreations/kiwipedia">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=alsacreations&repo=kiwipedia&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Kiwipedia Alsacréations" />
@@ -40,6 +47,10 @@
 
 <a href="https://github.com/alsacreations/eslint">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=alsacreations&repo=eslint&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Configuration eslint Alsacréations" />
+</a>
+
+<a href="https://github.com/nicolassutter/switch-ui">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolassutter&repo=switch-ui&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Switch Ui" />
 </a>
 
 <a href="https://github.com/nicolassutter/unocss-custom-properties">
@@ -77,11 +88,11 @@
 
 ---
 
-### My personal conventions 📏
+### Personal conventions 📏
 
 #### Git 🌳
 
-- I recently adopted [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) and I love it.
+- I use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) and I love it.
 
 #### Code quality & formatting 🎨
 
