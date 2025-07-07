@@ -45,6 +45,10 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=alsacreations&repo=kiwipedia&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Kiwipedia Alsacréations" />
 </a>
 
+<a href="https://github.com/nicolassutter/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolassutter&repo=portfolio&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Kiwipedia Alsacréations" />
+</a>
+
 <a href="https://github.com/alsacreations/eslint">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=alsacreations&repo=eslint&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca" alt="Configuration eslint Alsacréations" />
 </a>
